@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2376FCB3-16D5-498F-BEA7-AF05F799E5C4}|study3\\study3.csproj|c:\\likelion\\likelion\\study3\\study3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2376FCB3-16D5-498F-BEA7-AF05F799E5C4}|study3\\study3.csproj|solutionrelative:study3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2376FCB3-16D5-498F-BEA7-AF05F799E5C4}|study3\\study3.csproj|c:\\likelion\\likelion\\study3\\study3\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2376FCB3-16D5-498F-BEA7-AF05F799E5C4}|study3\\study3.csproj|solutionrelative:study3\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,22 @@
               "RelativeDocumentMoniker": "study3\\Program.cs",
               "ToolTip": "C:\\LikeLion\\LikeLion\\study3\\study3\\Program.cs",
               "RelativeToolTip": "study3\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwC4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwDIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T01:28:04.412Z",
+              "WhenOpened": "2025-02-21T01:46:33.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\study3\\study3\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "study3\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\study3\\study3\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "study3\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:46:30.159Z",
               "EditorCaption": ""
             }
           ]

@@ -44,10 +44,11 @@ namespace study3
             String ChName = "김빵빵";
             char grade = 'S';
 
-            Console.WriteLine(hp);
-            Console.WriteLine(att);
-            Console.WriteLine(ChName);
-            Console.WriteLine(grade); 
+            Console.WriteLine("캐릭터");
+            Console.WriteLine("HP : "+hp);
+            Console.WriteLine("공격력 : "+att);
+            Console.WriteLine("이름 : "+ChName);
+            Console.WriteLine("등급 : "+grade); 
 
 
         }
