@@ -10,22 +10,22 @@ namespace study6
     {
         static void Main(string[] args)
         {
-            //1. 사용자 입력을 문자열로 받기
+            ////1. 사용자 입력을 문자열로 받기
             //Console.Write("이름을 입력하세요 : ");
             //string userName = Console.ReadLine();
 
             //Console.WriteLine($"안녕하세요, {userName}님!");  //입력값 출력
 
-            //2.문자열을 정수로 변환
+            ////2.문자열을 정수로 변환
             //Console.Write("나이를 입력하세요 : ");
             //string input = Console.ReadLine();
             //int age = int.Parse(input);
 
             //Console.WriteLine($"내년에는 {age + 1}살이 되겠군요!");
             //Console.WriteLine("내년에는 " + age + "살이 되겠군요!");
-            //Console.WriteLine("내년에는 {0} 살이 되겠군요!", age +1);
+            //Console.WriteLine("내년에는 {0} 살이 되겠군요!", age + 1);
 
-/*
+
             Console.Write("루인 스킬 피해 입력 값을 입력하세요 : ");
             string stat1 = Console.ReadLine();
             float nStat1 = float.Parse(stat1);
@@ -69,7 +69,6 @@ namespace study6
             Console.WriteLine("탈 것 속도 : " + nStat8 + "%");
             Console.WriteLine("운반 속도 : " + nStat9 + "%");
             Console.WriteLine("스킬 재사용 대기시간 감소 : "+ nStat10 +"%");
-*/
 
 
         }
